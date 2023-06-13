@@ -94,3 +94,4 @@ El bot se iniciará y comenzará a escuchar las interacciones de los usuarios.
 -Verás un mensaje en la terminal con el texto "¡Hola! Bienvenido a nuestro canal de atención (J&H Mendoza). Estamos listos para atenderte. Por favor, selecciona la opción" seguido de las opciones disponibles.
 -Puedes utilizar un dispositivo móvil para escanear el código QR que se muestra en la terminal. Esto iniciará una sesión de WhatsApp en el dispositivo y podrás interactuar con el bot.
 -El bot responderá según las palabras clave que hayas definido en los flujos de conversación. Puedes personalizar y agregar más flujos y respuestas según tus necesidades.
+![Texto alternativo](botimg/imagen.jpg)
